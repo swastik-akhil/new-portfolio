@@ -401,6 +401,12 @@ section h3{
 
 }
 
+@media screen and (min-width: 570px){
+    #tech{
+        margin-top: 10%;
+    }
+
+}
 
 .container {
     padding: 20px;
