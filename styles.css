@@ -86,7 +86,7 @@ section h3{
 
 #projects{
     /* background-color: blueviolet; */
-    height: 100vh;
+    height: 135vh;
 }
 
 .card {
@@ -312,7 +312,7 @@ section h3{
     }
 
     #tech h3 {
-        margin-bottom: 12vh;
+        margin-bottom: 8vh;
     }
     
     #tech ul li {
